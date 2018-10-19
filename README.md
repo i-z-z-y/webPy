@@ -1,5 +1,5 @@
 # webPy
-A *small* Python web server, but webPy is meant for education and learning demo purposes.
+A *small* Python web server, but webPy is meant for educational and learning demo purposes.
 
 **SCREENSHOT: DEMO HTML FILES BEING SERVED**
 
