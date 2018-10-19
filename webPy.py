@@ -1,4 +1,4 @@
-# http.server is meant for demo purposes and does not implement the stringent security checks needed of real production HTTP server.
+# http.server is meant for demo purposes and does not implement the stringent security checks needed for a real production HTTP server.
 # It is not recommend to use this directly in production.
 
 import http.server
